@@ -1,0 +1,24 @@
+_repo: Het-Kindeken-Jezus-in-Vlaanderen_58311
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Timmermans, Felix
+    alias: Timmermans, Felix Maximiliaan Leopold
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '3951'
+    url: http://www.gutenberg.org/2009/agents/3951
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Timmermans
+description: ''
+gutenberg_issued: '2018-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58311'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Het Kindeken Jezus in Vlaanderen
+url: http://www.gutenberg.org/ebooks/58311
