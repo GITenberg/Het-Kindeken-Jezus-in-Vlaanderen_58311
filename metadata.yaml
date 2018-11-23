@@ -1,5 +1,8 @@
 _repo: Het-Kindeken-Jezus-in-Vlaanderen_58311
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Timmermans, Felix
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3951
     wikipedia: http://en.wikipedia.org/wiki/Felix_Timmermans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58311#Het-Kindeken-Jezus-in-Vlaanderen
 gutenberg_issued: '2018-11-19'
 gutenberg_type: Text
 identifiers:
